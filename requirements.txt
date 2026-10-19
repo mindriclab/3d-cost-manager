@@ -1,0 +1,4 @@
+customtkinter==5.2.2
+fpdf2==2.8.5
+matplotlib==3.10.7
+pyinstaller==6.16.0
